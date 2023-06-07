@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Ishnaman Singh Seth</h1>
 <h3 align="center">I tend to get lost in codes quite often</h3>
-<img align="right" width=400 alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw2MLlBx0YfYCI-v3aXpZSEc&ust=1686266989449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC6hpmosv8CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <a href="https://twitter.com/ishnamans" target="blank"><img src="https://img.shields.io/twitter/follow/ishnamans?logo=twitter&style=for-the-badge" alt="ishnamans" /></a> </p>
 
