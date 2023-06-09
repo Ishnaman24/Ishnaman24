@@ -86,6 +86,10 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishnaman24&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  </td></tr>
+<td valign="bottom" width="50%">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishnaman24&" alt="Ishnaman24" />
 
 </td></tr></table>  
 
